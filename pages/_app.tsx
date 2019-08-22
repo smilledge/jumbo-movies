@@ -3,6 +3,9 @@ import { ThemeProvider } from 'styled-components'
 import NextApp from 'next/app'
 import { theme } from '../theme'
 
+// Using require to prevent webpack tree shaking from removing
+require('gsap/CSSPlugin')
+
 type AppProps = {
   Component: React.ReactNode
   pageProps: object

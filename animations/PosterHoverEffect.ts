@@ -1,6 +1,5 @@
 import { useEffect } from 'react'
 import TweenLite from 'gsap/TweenLite'
-import 'gsap/CSSPlugin'
 
 /**
  * Adds a mouse tracking perspective over effect to poster images
