@@ -2,7 +2,7 @@
 
 Jumbo technical task.
 
-[Demo](https://jumbo-movies-547pnnzaw.now.sh)
+[Demo](https://jumbo-movies.smilledge.now.sh)
 
 ## Install
 
